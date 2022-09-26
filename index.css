@@ -1,0 +1,32 @@
+*{
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main{
+    background-color: #f9f9f9;
+    width: 100vw;
+    height: 100vh;
+}
+
+.week{
+    background-color: #f2f2f2;
+    height: 50vh;
+    width: 40vw;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    text-align: center;
+    padding: 5rem 0rem;
+}
+
+.weekday{
+    color: red;
+}
+
